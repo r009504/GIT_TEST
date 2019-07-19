@@ -1,2 +1,4 @@
 #locally ignore .bak files
 *.bak
+# locally ignore below directory"
+temp
